@@ -1,6 +1,6 @@
 # Overview
 Backend code can be found in `ror` directory
-Frontend code can be foudn in `ror/client` directory
+Frontend code can be found in `ror/client` directory
 
 Bulletin is a social networking platform centered around news. As the rise of social media continues, younger generations stray away from traditional news sites and articles and turn to resources such as Twitter and Facebook. This app seeks to combine traditional news outlets with a social media interface for a more captivating and engaging experience. With Bulletin, users are able to follow specific news sources or interests as well as follow other users. Using this approach, Bulletin strives to become a one-stop-shop news outlet for any generational user.
 
@@ -38,7 +38,7 @@ The backend install steps require the following on your system
 1. Clone this repository to you local machine.
 2. Once cloned, navigate to the base folder of this repository.
 3. Make sure docker and docker compose are installed on your machine.
-4. Run `sudo docker-compose up --build -d` to run detatched docker containers.
+4. Run `sudo docker-compose up --build -d` to run detached docker containers.
 5. Navigate to `localhost:3001` to see application.
 
 ### Huge thanks to Joshua Holmes for creating the base dockerization code
